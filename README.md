@@ -1,4 +1,6 @@
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+## NAME: ENBANATHAN V
+## REG NO: 212224220027
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
@@ -71,24 +73,20 @@ icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
 Disk Structure Analysis Results
+<img width="625" height="410" alt="EX 2" src="https://github.com/user-attachments/assets/0d227e2f-35f1-4f10-889a-eadfca98769c" />
+<img width="518" height="461" alt="EX2 2" src="https://github.com/user-attachments/assets/5670885e-269b-4944-9ac2-777ebe1b33ef" />
+<img width="637" height="462" alt="EX2 3" src="https://github.com/user-attachments/assets/b13841ec-fbd0-4898-a143-a6132578fa2e" />
+<img width="637" height="458" alt="EN2 4" src="https://github.com/user-attachments/assets/d83a631a-cd0f-4499-9bc8-c49de903f550" />
 
-<img width="625" height="410" alt="Screenshot 2026-08-21 223235" src="https://github.com/user-attachments/assets/813342ed-5bbf-4c48-809d-6f3ed37a370c" />
-<img width="518" height="461" alt="Screenshot 2026-08-21 223306" src="https://github.com/user-attachments/assets/61381bc3-9e05-4126-ba7c-428d766352e5" />
-<img width="637" height="462" alt="Screenshot 2026-08-21 223327" src="https://github.com/user-attachments/assets/5933bdf2-d0a4-4bc0-b0cc-a0680fd172f1" />
-<img width="637" height="458" alt="Screenshot 2026-08-21 223346" src="https://github.com/user-attachments/assets/f65304bb-62b9-4d8d-bc8a-e05ed70916ec" />
-<img width="629" height="456" alt="Screenshot 2026-08-21 223403" src="https://github.com/user-attachments/assets/190c2f0d-1944-4a75-8187-7dd4f9c98724" />
-<img width="529" height="442" alt="Screenshot 2026-08-21 223421" src="https://github.com/user-attachments/assets/45c273b9-7295-4c88-bf0b-45b6910de729" />
-<img width="487" height="451" alt="Screenshot 2026-08-21 223436" src="https://github.com/user-attachments/assets/613ec996-de82-4630-93c2-83a2a160dfe8" />
-<img width="422" height="450" alt="Screenshot 2026-08-21 223451" src="https://github.com/user-attachments/assets/31637091-c05a-44a8-a752-600eab16a8dd" />
-<img width="423" height="217" alt="Screenshot 2026-08-21 223508" src="https://github.com/user-attachments/assets/647350a4-9cb1-42c0-bc3e-a508e4dab322" />
+<img width="629" height="456" alt="EX2 5" src="https://github.com/user-attachments/assets/b69d34a4-82a7-4a13-97dd-4d5fb9e366f5" />
 
+<img width="529" height="442" alt="EX2 6" src="https://github.com/user-attachments/assets/faa66f5d-3543-4784-bc95-1ee6cbdbdb34" />
 
+<img width="487" height="451" alt="EX2 7" src="https://github.com/user-attachments/assets/c0142fe6-6f75-472a-baab-edd44831b448" />
 
+<img width="422" height="450" alt="EX2 8" src="https://github.com/user-attachments/assets/ee8c9e74-a3b6-45ff-84d0-c454b6dd6b7c" />
 
-
-
-
-
+<img width="423" height="217" alt="EX2 9" src="https://github.com/user-attachments/assets/35f7e8ee-4f71-4c9a-8be9-40191b1b876c" />
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
